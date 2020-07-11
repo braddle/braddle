@@ -2,7 +2,7 @@
 
 > He/Him/His
 
-![](me.jpeg | width=150)
+![](me.jpeg)
 
 ## I’m currently working on
 
