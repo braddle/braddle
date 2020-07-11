@@ -2,6 +2,8 @@
 
 > He/Him/His
 
+![](me.jpeg | width=150)
+
 ## I’m currently working on
 
 ### Sainsbury's Tech
