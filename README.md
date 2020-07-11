@@ -12,6 +12,10 @@ At work I am currenlty a Principle Software Engineer [Sainsbury's](https://www.s
 
 I am passionate about Test Driven Development and host a fortnightly [screencast](https://www.youtube.com/channel/UCzsn8sYybN5CC5CZz51pDMw/) when I demonstract different type of testing tools & techniques. 
 
+## How to reach me
+
+You can hit me up on Twitter [@braddle](https://twitter.com/braddle)
+
 
 <!--
 **braddle/braddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
