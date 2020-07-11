@@ -6,11 +6,11 @@
 
 ### Sainsbury's Tech
 
-At work I am currenlty a Principle Software Engineer working on [SmartShop](https://smartshop.sainsburys.co.uk/)
+At work I am currenlty a Principle Software Engineer [Sainsbury's](https://www.sainsburys.co.uk/) working on [SmartShop](https://smartshop.sainsburys.co.uk/)
 
 ### Testing All The Things
 
-I am passionate about Test Driven Development and host a fortnightly screencast when I demonstract different type of testing tools & techniques. 
+I am passionate about Test Driven Development and host a fortnightly [screencast](https://www.youtube.com/channel/UCzsn8sYybN5CC5CZz51pDMw/) when I demonstract different type of testing tools & techniques. 
 
 
 <!--
